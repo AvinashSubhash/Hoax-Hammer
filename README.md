@@ -18,6 +18,11 @@ Are you tired of scammers preying on innocent victims? Do you want to fight back
 ## 🛑 Disclaimer:
 Project Hoax-Hammer is meant for educational and entertainment purposes only. We do not endorse any illegal activities. Be sure to use this script responsibly and within the bounds of the law.
 
+I have formulated this script in response to an attempted scam directed at me. Fortunately, I identified the fraudulent nature of the scheme. I am providing the link to their counterfeit payment website for your reference.
+
+##Fake Payment Scam Website Link - https://fbj.74d.myftpupload.com/
+
+
 ## 🤝 Join the Movement:
 Let's unite against scammers and create a world where deception has consequences. Clone the repository, run the script, and let justice prevail! Remember, the power to make a change is in your hands.
 
