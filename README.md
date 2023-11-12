@@ -28,4 +28,4 @@ https://fbj.74d.myftpupload.com/
 ## 🤝 Join the Movement:
 Let's unite against scammers and create a world where deception has consequences. Clone the repository, run the script, and let justice prevail! Remember, the power to make a change is in your hands.
 
-## 🚨 Warning: Use this script responsibly, and be aware of the legal implications in your jurisdiction. The developers and contributors are not responsible for any misuse or consequences resulting from the use of Project KarmaRevenge.
+## 🚨 Warning: Use this script responsibly, and be aware of the legal implications in your jurisdiction. The developers and contributors are not responsible for any misuse or consequences resulting from the use of Project Hoax-Hammer.
