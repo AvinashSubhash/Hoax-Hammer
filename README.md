@@ -20,7 +20,9 @@ Project Hoax-Hammer is meant for educational and entertainment purposes only. We
 
 I have formulated this script in response to an attempted scam directed at me. Fortunately, I identified the fraudulent nature of the scheme. I am providing the link to their counterfeit payment website for your reference.
 
-##Fake Payment Scam Website Link - https://fbj.74d.myftpupload.com/
+## Payment Scam Website Link (Do Not Enter Your Personal Details!!!)
+
+https://fbj.74d.myftpupload.com/
 
 
 ## 🤝 Join the Movement:
